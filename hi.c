@@ -1,4 +1,4 @@
 #include <stdio.h>
 main(){
-	prinf("hello github!");
+	prinf("masarap mag-aral kaso mas masarap matulog");
 }
